@@ -1,2 +1,3 @@
-# CI-CD-Setup
-Sample CI/CD setup
+# maven-project
+
+Simple Maven Project
